@@ -4,6 +4,7 @@ import json
 import datetime
 import time
 import pandas as pd
+test='test'
 
 # api documentation
 # https://images.wbstatic.net/portal/education/Kak_rabotat'_s_servisom_statistiki.pdf?abc=1612952230000
